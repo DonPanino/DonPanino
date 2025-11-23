@@ -22,7 +22,7 @@ Also honerable mentions is the constant learning of Enfusion and creating mods f
 
 # 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,html,css,github,figma,mysql,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,html,css,github,figma,mysql,vscode,react,tailwind,svelte,git" />
 </p>
 
 ---
