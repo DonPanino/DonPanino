@@ -6,9 +6,6 @@
 ---
 
 ## 🟥⚫ **About Me**
-<p align="center">
-  <img src="https://i.imgur.com/sZB1xVq.gif" width="500">
-</p>
 
 I'm Don — a developer who builds **high-end FiveM systems**, especially **QB-Core scripts**, custom jobs, inventory systems, vehicle logic, and optimized server-side gameplay mechanics.  
 My focus: **smooth performance, clean code, and interactive gameplay experiences**.
@@ -36,13 +33,6 @@ My focus: **smooth performance, clean code, and interactive gameplay experiences
 
 ---
 
-# 🏗️ **Featured Visual**
-<p align="center">
-  <img src="https://i.imgur.com/0kQZz9K.gif" width="650" />
-</p>
-
----
-
 # 📦 **Pinned Work**
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=qb-custom&theme=radical" /></a>
@@ -61,20 +51,3 @@ My focus: **smooth performance, clean code, and interactive gameplay experiences
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonPanino&theme=tokyo-night" />
 </p>
 
----
-
-# 💬 **Contact / Socials**
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="55" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="55" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>
-</p>
-
----
-
-# 🎮 **Little Extra**
-<p align="center">
-  <img src="https://i.imgur.com/VfI4lqy.gif" width="400" />
-</p>
-
-> *"Code it once, optimize it twice, rebuild it forever."*
