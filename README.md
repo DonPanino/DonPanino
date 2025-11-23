@@ -7,8 +7,16 @@
 
 ## 🟥⚫ **About Me**
 
-I'm Don — a developer who builds **high-end FiveM systems**, especially **QB-Core scripts**, custom jobs, inventory systems, vehicle logic, and optimized server-side gameplay mechanics.  
-My focus: **smooth performance, clean code, and interactive gameplay experiences**.
+Whats up I'm Don. Self taught "Dev" 
+Co-Founder / CEO Nexus Development.
+
+Passion is Gaming and Modding. Started out with Runescape 318 Server & Habbo Hotel Custom Server. After that I went on to running Australias Number 1 and most successful 7 Days to Die server Zombabes which inspired countless spinoffs from members of my staff to members of the community trying to recreate the magic we all forged together back in 2019. 
+Shortly after that my attention turned to FiveM, having played on old UGLY non immersive Servers I wanted more, so I did what i have always done. Learnt the language and got to modding.
+Having spent time working on servers for ungreatful people I decided to make my own scripts from the "ground up" with my "bare hands" 
+
+Also honerable mentions is the constant learning of Enfusion and creating mods for DayZ -- Soon the server will come lol
+
+
 
 ---
 
@@ -24,10 +32,9 @@ My focus: **smooth performance, clean code, and interactive gameplay experiences
 
 | 🔥 Category | ⭐ Highlights |
 |------------|--------------|
-| **FiveM Systems** | Custom jobs, heists, UI systems, crafting, NUI apps |
-| **QB-Core Scripts** | Framework mods, exports, utilities, optimizations |
-| **Game Logic** | Server events, anti-exploit logic, networking |
-| **Tools** | Build tools, deployment automation, dev utilities |
+| **FiveM** | Custom jobs, UI overhauls, NUI apps |
+| **DayZ**  | Housing System, Custom Items, Custom AI |
+| **7D2D**  | Custom Zombies, Custom Models, Custom Weapons |
 
 </div>
 
