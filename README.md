@@ -17,8 +17,8 @@ I’m a **FiveM / QB / QBX / Standalone** developer based in **Australia**, buil
 
 | Category | Tools / Languages |
 |---|---|
-| **Scripting** | Lua, JavaScript / TypeScript |
-| **Frameworks** | QB-Core, ESX |
+| **Scripting** | Lua, Vue, JavaScript / TypeScript |
+| **Frameworks** | QB-Core, Qbox, Ox |
 | **Databases** | MySQL / MariaDB, Redis |
 | **Utilities** | Git, GitHub, REST APIs |
 | **Dev Tools** | VSCode, Node.js, NPM |
@@ -36,21 +36,6 @@ I’m a **FiveM / QB / QBX / Standalone** developer based in **Australia**, buil
 ## 📈 GitHub Stats
 
 ![DonPanino’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DonPanino&show_icons=true&theme=radical)
-
----
-
-## 📫 Get in Touch
-
-- Twitter / X: [@YourHandle](https://twitter.com/YourHandle)  
-- LinkedIn: [Your Name](https://www.linkedin.com/in/YourLinkedIn)  
-- Email: `yourname@example.com`
-
----
-
-## 🎮 More About Me
-
-- When I'm not scripting, I love gaming (especially GTA / FiveM!), skating, and learning new frameworks.  
-- Always open to collab — hit me up if you’ve got a cool project idea.
 
 ---
 
