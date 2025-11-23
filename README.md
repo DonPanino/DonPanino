@@ -1,42 +1,80 @@
-# Hey, I’m Don 👋
-
-I’m a **FiveM / QB / QBX / Standalone** developer based in **Australia**, building custom game systems, scripts, and tools for multiplayer experiences.
-
----
-
-## 💻 What I Do
-
-- Develop **server-side scripts** for FiveM (QB-Core)  
-- Build custom game systems: jobs, vehicles, inventory, etc.  
-- Optimize performance & debug multiplayer logic  
-- Create tools to automate workflows and testing  
+# 🌐 DonPanino  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=F75757&center=true&vCenter=true&width=900&lines=FiveM+Developer;QB-Core+Specialist;Creator+of+Custom+Framework+Systems;Always+Building+Something+New" />
+</p>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🟥⚫ **About Me**
+<p align="center">
+  <img src="https://i.imgur.com/sZB1xVq.gif" width="500">
+</p>
 
-| Category | Tools / Languages |
-|---|---|
-| **Scripting** | Lua, Vue, JavaScript / TypeScript |
-| **Frameworks** | QB-Core, Qbox, Ox |
-| **Databases** | MySQL / MariaDB, Redis |
-| **Utilities** | Git, GitHub, REST APIs |
-| **Dev Tools** | VSCode, Node.js, NPM |
+I'm Don — a developer who builds **high-end FiveM systems**, especially **QB-Core scripts**, custom jobs, inventory systems, vehicle logic, and optimized server-side gameplay mechanics.  
+My focus: **smooth performance, clean code, and interactive gameplay experiences**.
 
 ---
 
-## 📂 Projects / Highlights
-
-- **[My FiveM Server Scripts](https://github.com/DonPanino)** — Core systems for jobs, inventory, permissions, etc.  
-- **[Workflow Automations](https://github.com/DonPanino/tools)** — Tools to help with deployment, code quality, and testing.  
-- (Add more here as you like: open-source projects, side-projects, utils.)
-
----
-
-## 📈 GitHub Stats
-
-![DonPanino’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DonPanino&show_icons=true&theme=radical)
+# 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,html,css,github,figma,mysql,vscode,react" />
+</p>
 
 ---
 
-Thanks for stopping by — feel free to explore my repos and reach out!  
+# 🧩 **What I Build**
+<div align="center">
+
+| 🔥 Category | ⭐ Highlights |
+|------------|--------------|
+| **FiveM Systems** | Custom jobs, heists, UI systems, crafting, NUI apps |
+| **QB-Core Scripts** | Framework mods, exports, utilities, optimizations |
+| **Game Logic** | Server events, anti-exploit logic, networking |
+| **Tools** | Build tools, deployment automation, dev utilities |
+
+</div>
+
+---
+
+# 🏗️ **Featured Visual**
+<p align="center">
+  <img src="https://i.imgur.com/0kQZz9K.gif" width="650" />
+</p>
+
+---
+
+# 📦 **Pinned Work**
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=qb-custom&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=fivem-tools&theme=radical" /></a>
+</p>
+
+---
+
+# 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DonPanino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonPanino&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonPanino&theme=tokyo-night" />
+</p>
+
+---
+
+# 💬 **Contact / Socials**
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="55" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="55" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>
+</p>
+
+---
+
+# 🎮 **Little Extra**
+<p align="center">
+  <img src="https://i.imgur.com/VfI4lqy.gif" width="400" />
+</p>
+
+> *"Code it once, optimize it twice, rebuild it forever."*
