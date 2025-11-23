@@ -1,6 +1,6 @@
 # 🌐 DonPanino  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=F75757&center=true&vCenter=true&width=900&lines=FiveM+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=F75757&center=true&vCenter=true&width=900&lines=FiveM+Developer;DayZ+Developer;Web+Developer;Audio+Developer;" />
 </p>
 
 ---
