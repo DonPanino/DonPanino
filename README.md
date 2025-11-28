@@ -42,8 +42,8 @@ Also honerable mentions is the constant learning of Enfusion and creating mods f
 
 # 📦 **Pinned Work**
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=qb-custom&theme=radical" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=fivem-tools&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=Sunkenland-GraphicsExtender" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=DonPanino" /></a>
 </p>
 
 ---
