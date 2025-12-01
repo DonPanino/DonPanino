@@ -40,14 +40,6 @@ Also honerable mentions is the constant learning of Enfusion and creating mods f
 
 ---
 
-# 📦 **Pinned Work**
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=Sunkenland-GraphicsExtender" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DonPanino&repo=Sunkenland-ModLoader" /></a>
-</p>
-
----
-
 # 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DonPanino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" />
