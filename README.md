@@ -8,7 +8,7 @@
 ## 🟥⚫ **About Me**
 
 Whats up I'm Don. Self taught "Dev" 
-Co-Founder / CEO Nexus Development.
+Founder & CEO Nexus Development.
 
 Passion is Gaming and Modding. Started out with Runescape 318 Server & Habbo Hotel Custom Server. After that I went on to running Australias Number 1 and most successful 7 Days to Die server Zombabes which inspired countless spinoffs from members of my staff to members of the community trying to recreate the magic we all forged together back in 2019. 
 Shortly after that my attention turned to FiveM, having played on old UGLY non immersive Servers I wanted more, so I did what i have always done. Learnt the language and got to modding.
