@@ -7,16 +7,13 @@
 
 ## 🟥⚫ **About Me**
 
-Whats up I'm Don. Self taught "Dev" 
-Founder & CEO Nexus Development.
+What's up, I'm Don. Self-taught developer and Founder & CEO of Nexus Development.
 
-Passion is Gaming and Modding. Started out with Runescape 318 Server & Habbo Hotel Custom Server. After that I went on to running Australias Number 1 and most successful 7 Days to Die server Zombabes which inspired countless spinoffs from members of my staff to members of the community trying to recreate the magic we all forged together back in 2019. 
-Shortly after that my attention turned to FiveM, having played on old UGLY non immersive Servers I wanted more, so I did what i have always done. Learnt the language and got to modding.
-Having spent time working on servers for ungreatful people I decided to make my own scripts from the "ground up" with my "bare hands" 
+My absolute passion is gaming and modding. I started out tinkering with RuneScape 318 and Habbo Hotel custom servers. From there, I went on to run Australia's #1 and most successful *7 Days to Die* server, **Zombabes**. It was a massive run that inspired countless spin-offs from staff and community members trying to recreate the magic we forged back in 2019. 
 
-Also honerable mentions is the constant learning of Enfusion and creating mods for DayZ -- Soon the server will come lol
+Shortly after, my attention turned to FiveM. After playing on clunky, non-immersive servers, I wanted more. So, I did what I always do: learned the language and got to modding. After spending time building for other servers, I realized I wanted full creative control. I decided to start making my own scripts from the ground up with my bare hands. 
 
-
+**Honourable mention:** I'm constantly learning Enfusion and creating mods for DayZ. The server is coming soon... lol.
 
 ---
 
@@ -32,6 +29,8 @@ Also honerable mentions is the constant learning of Enfusion and creating mods f
 
 | 🔥 Category | ⭐ Highlights |
 |------------|--------------|
+| **App Development** | Cross-platform apps, API integration, UI/UX design |
+| **Website Building** | Responsive design, Full-stack solutions, E-commerce |
 | **FiveM** | Custom jobs, UI overhauls, NUI apps |
 | **DayZ**  | Housing System, Custom Items, Custom AI |
 | **7D2D**  | Custom Zombies, Custom Models, Custom Weapons |
@@ -48,5 +47,5 @@ Also honerable mentions is the constant learning of Enfusion and creating mods f
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonPanino&theme=tokyo-night" />
+  <img src="https://komarev.com/ghpvc/?username=DonPanino&label=Profile%20Views&color=F75757&style=for-the-badge" alt="Profile Views" />
 </p>
-
