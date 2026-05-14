@@ -44,9 +44,6 @@ Shortly after, my attention turned to FiveM. After playing on clunky, non-immers
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonPanino&theme=tokyonight" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonPanino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonPanino&theme=tokyo-night" />
   <img src="https://komarev.com/ghpvc/?username=DonPanino&label=Profile%20Views&color=F75757&style=for-the-badge" alt="Profile Views" />
 </p>
